@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Understanding approach in the Nature paper}{3}{0}{1}
+\beamer@sectionintoc {2}{Tilting wells - Multiple transfers}{11}{0}{2}
+\beamer@sectionintoc {3}{Work Done - Existing Literature}{18}{0}{3}
+\beamer@subsectionintoc {3}{1}{Work done in Nature Paper}{19}{0}{3}
+\beamer@subsectionintoc {3}{2}{Work done in EPL Paper}{24}{0}{3}
+\beamer@sectionintoc {4}{Preliminary calculations}{27}{0}{4}
+\beamer@subsectionintoc {4}{1}{Using drag force on the bead}{27}{0}{4}
+\beamer@subsectionintoc {4}{2}{Using total force on the bead}{37}{0}{4}

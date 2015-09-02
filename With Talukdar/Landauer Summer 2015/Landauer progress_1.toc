@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Potential well construction}{3}{0}{1}
+\beamer@sectionintoc {2}{Low intensity wells}{17}{0}{2}
+\beamer@sectionintoc {3}{Transition by tilting wells}{25}{0}{3}
+\beamer@sectionintoc {4}{Understanding approach in the Nature paper}{30}{0}{4}
+\beamer@sectionintoc {5}{Tilting wells - Multiple transfers}{35}{0}{5}
+\beamer@sectionintoc {6}{Tilting wells and Work Done}{38}{0}{6}
